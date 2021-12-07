@@ -1,0 +1,8 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+body{
+    border: 10px solid hsl(215, 32%, 27%);
+    width: 50%;
+    height: 500px;
+    margin: auto;
+}
